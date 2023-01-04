@@ -3,4 +3,4 @@
 #Coded in MicroC
 #Simulated using Proteus software
 
-#Code and proteaus save file included
+#Code and proteus save file included
